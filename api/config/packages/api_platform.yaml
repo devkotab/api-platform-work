@@ -6,6 +6,8 @@ api_platform:
         include_type: true
     formats:
         jsonld: ['application/ld+json']
+        html: ['text/html']
+        json: ['application/json']
     docs_formats:
         jsonld: ['application/ld+json']
         jsonopenapi: ['application/vnd.openapi+json']
